@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/beezy120/chat-spammer/refs/heads/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/byte1z/chat-spammer/refs/heads/main/main.lua"))()
